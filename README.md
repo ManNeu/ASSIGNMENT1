@@ -18,9 +18,6 @@ The pre-existing html and css files are refactored using visual studio code and 
 Contact
 Manish Neupane
 
-Project link:
-(github link)https://manneu.github.io/ASSIGNMENT1/
-[google link](https://www.google.com)
 
 Acknowledgments
 - github
